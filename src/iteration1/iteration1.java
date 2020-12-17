@@ -1,4 +1,6 @@
-public class App {
+package iteration1;
+
+public class iteration1 {
     public static void main(String[] args) throws Exception {
         PingPong ping = new PingPong("Ping", 2);
         PingPong pong = new PingPong("Pong", 2);

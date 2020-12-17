@@ -1,3 +1,5 @@
+package iteration1;
+
 public class PingPong extends Thread {
     String word;
     int delay, iter;
